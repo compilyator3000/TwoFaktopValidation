@@ -1,0 +1,11 @@
+{
+  "name": "Validation",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "autoload": {
+    "psr-4": {
+      "validation\\": "Validation"
+    }
+  }
+}
